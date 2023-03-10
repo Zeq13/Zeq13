@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Zeq13/Zeq13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 Contato (11)93152-0823: ...
 - 😄 Male: ...
 - ⚡ Professor de violão classico: ...
--->
+
