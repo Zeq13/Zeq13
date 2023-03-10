@@ -12,7 +12,9 @@ qUEM SOU EU
 - 💬 Pergunte-me algo ...
 
 
-- 📫 ##Contato (11)93152-0823: 
-- 😄 Male: ...
-- ⚡ Professor de violão classico: ...
+- 📫 ## Contato (11)93152-0823: 
+- 
+- 😄 Male: 
+- 
+- ⚡ Professor de violão classico: 
 
