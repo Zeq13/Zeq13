@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Zeq13/Zeq13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zeq13/Zeq13** É UM ✨ PROGRAMADOR ✨ `README.md` 
 
-Here are some ideas to get you started:
+qUEM SOU EU
 
 - 🔭 Estudante de programação  ...
 - 🌱 Atualmente estou Cursando Desenvolvimento front end na instituição SENAC ...
