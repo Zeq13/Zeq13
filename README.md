@@ -3,7 +3,7 @@
 
 **Zeq13/Zeq13** É UM ✨ PROGRAMADOR ✨ `README.md` 
 
-#QUEM SOU EU <h1>
+#QUEM SOU EU <h3>
 
 - 🔭 Estudante de programação  ...
 - 🌱 Atualmente estou Cursando Desenvolvimento front end na instituição SENAC ...
