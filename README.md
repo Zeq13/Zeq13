@@ -1,7 +1,7 @@
 ### Olá DV'S 👋 <h1>
   
 
-**Zeq13/Zeq13** É UM ✨ PROGRAMADOR ✨ `README.md` 
+**Zeq13/Zeq13** É UM ✨ DESENVOLVEDOR FRONT END ✨ `README.md` 
 
 #QUEM SOU EU <h5>
 
